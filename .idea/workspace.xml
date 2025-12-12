@@ -4,29 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77bf860e-d100-47b7-99c0-7a916f18eeb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pygame Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asteroid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drawwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indicators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/score" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds.py" afterDir="false" />
+    <list default="true" id="77bf860e-d100-47b7-99c0-7a916f18eeb2" name="Changes" comment="Added project files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -49,29 +35,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.asteroid.executor&quot;: &quot;Run&quot;,
-    &quot;Python.background.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
-    &quot;Python.drawwindow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.events.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funktions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.get_score.executor&quot;: &quot;Run&quot;,
-    &quot;Python.health.executor&quot;: &quot;Run&quot;,
-    &quot;Python.health_and_planets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.indicators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.planet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sounds.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kirillkonstantinovskij/Desktop/учеба/Game Project&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.asteroid.executor": "Run",
+    "Python.background.executor": "Run",
+    "Python.ball.executor": "Run",
+    "Python.drawwindow.executor": "Run",
+    "Python.events.executor": "Run",
+    "Python.funktions.executor": "Run",
+    "Python.get_score.executor": "Run",
+    "Python.health.executor": "Run",
+    "Python.health_and_planets.executor": "Run",
+    "Python.hero.executor": "Run",
+    "Python.indicators.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.planet.executor": "Run",
+    "Python.sounds.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kirillkonstantinovskij/Desktop/учеба/Game Project",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.main">
     <configuration name="drawwindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pygame Project" />
@@ -231,6 +217,15 @@
       <option name="presentableId" value="Default" />
       <updated>1764160958954</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added project files">
+      <option name="closed" value="true" />
+      <created>1765543281684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765543281684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,5 +250,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project files" />
   </component>
 </project>
